@@ -1,7 +1,7 @@
   ## Hello, I'm Priscila Machado 💜
 
 - 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on front-end projets.
+- 👯 I’m looking to collaborate on front-end projects.
 
 <div align="center">
   <a href="https://github.com/yes-pripri">
