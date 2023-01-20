@@ -1,6 +1,6 @@
   ## Hello, I'm Priscila Machado 💜
 
-- 🌱 I’m currently learning JavaScript, Node.js, Json and MongoDB.
+- 🌱 I’m currently learning  React. 
 - 👯 I’m looking to collaborate on web projects.
 
 <div align="center">
