@@ -1,6 +1,6 @@
   ## Hello, I'm Priscila Machado 💜
 
-- 🌱 I’m currently learning  React and TypeScript. 
+- 🌱 I’m currently learning React and TypeScript. 
 - 👯 I’m looking to collaborate on web projects.
 
 <div align="center">
@@ -23,7 +23,7 @@
  <div>
   <a href="https://www.instagram.com/yespr1pr1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/Priscila#8211" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="kathelenpmachado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:kathelenpmachado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  	
     
   
