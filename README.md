@@ -1,6 +1,6 @@
   ## Hello, I'm Priscila Machado 💜
 
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning ReactJs and TypesCript.
 - 👯 I’m looking to collaborate on web projects.
 
 <div align="center">
