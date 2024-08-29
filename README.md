@@ -3,12 +3,7 @@
   <div align="center">
   <a href="https://github.com/yes-pripri">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yes-pripri&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-- 🌱 I’m currently learning ReactJs and TypeScript.
-- 👯 I’m looking to collaborate on web projects.
-
-- 
+  </div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
