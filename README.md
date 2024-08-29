@@ -1,5 +1,10 @@
   ## Hello, I'm Priscila Machado 💜
 
+  <div align="center">
+  <a href="https://github.com/yes-pripri">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yes-pripri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 - 🌱 I’m currently learning ReactJs and TypeScript.
 - 👯 I’m looking to collaborate on web projects.
   
