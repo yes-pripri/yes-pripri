@@ -1,4 +1,4 @@
-  ## Hello, I'm Priscila Machado 
+  ## Hello, I'm Priscila Machado 👋
 
  <div align="left">
   <a href="https://github.com/yes-pripri">
