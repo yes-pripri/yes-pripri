@@ -1,4 +1,5 @@
   ## Hello, I'm Kathelen Priscila 👋
+  I’m a web developer who loves turning ideas into clean, modern, and efficient websites and apps.
 
  <div align="left">
   <a href="https://github.com/yes-pripri">
