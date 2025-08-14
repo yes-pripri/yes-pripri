@@ -1,6 +1,6 @@
   ## Hello, I'm Kathelen Priscila 
 
-  Passionate about building beautiful, dependable, and user-driven web experiences, ready to contribute to innovative projects.
+  Passionate about building beautiful and dependable web experiences, ready to contribute to innovative projects.
 
  <div align="left">
   <a href="https://github.com/yes-pripri">
