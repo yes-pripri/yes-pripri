@@ -1,5 +1,7 @@
   ## Hello, I'm Kathelen Priscila 
 
+  Passionate about transforming challenges into elegant, tested, and high-performance digital products.
+
  <div align="left">
   <a href="https://github.com/yes-pripri">
   
