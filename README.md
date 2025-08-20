@@ -1,4 +1,4 @@
-  ## Hello, I'm Kathelen Priscila 
+  ## Hello, I'm Priscila. :) 
 
   Passionate about building beautiful and dependable web experiences, ready to contribute to innovative projects.
 
