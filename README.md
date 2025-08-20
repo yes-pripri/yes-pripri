@@ -1,6 +1,6 @@
   ## Hello, I'm Priscila. :) 
 
-  Passionate about building beautiful and dependable web experiences, ready to contribute to innovative projects.
+  Coding, Cats & Coffee 👩🏼‍💻🐈‍⬛☕
 
  <div align="left">
   <a href="https://github.com/yes-pripri">
