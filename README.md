@@ -1,7 +1,12 @@
   ## Hello, I'm Priscila. :) 
 
-  Coding, Cats & Coffee 👩🏼‍💻🐈‍⬛☕
+Frontend Developer focused on building modern, performant, and scalable web applications.
 
+• React, TypeScript, Next.js, Tailwind CSS  
+• Experience with real-world projects, deployments, and UI/UX best practices  
+• Currently expanding skills in Node.js and backend development  
+
+Based in Brazil | Open to remote opportunities
 
   
   <div style="display: inline_block"><br>
