@@ -2,9 +2,9 @@
 
 Frontend Developer focused on building modern, performant, and scalable web applications.
 
-• React, TypeScript, Next.js and Tailwind CSS.
-• Experience with real-world projects, deployments, and UI/UX best practices. 
-• Currently expanding skills in Node.js and backend development.
+• React, TypeScript, Next.js and Tailwind CSS
+• Experience with real-world projects, deployments, and UI/UX best practices
+• Currently expanding skills in Node.js and backend development
 
 Based in Brazil | Open to remote opportunities
 
